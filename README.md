@@ -1,6 +1,6 @@
 # touch-cli
 
-A simple, limited implementation of the [touch](http://en.wikipedia.org/wiki/Touch_(Unix)) command.
+A simple, limited implementation of the touch command for Node.
 
 ## Installation
 
@@ -10,7 +10,6 @@ A simple, limited implementation of the [touch](http://en.wikipedia.org/wiki/Tou
 
 ```
 touch [filename]
-
 ```
 
 ## Examples
