@@ -1,12 +1,17 @@
 {
-	"name": "touch-cli",
-	"version": "0.0.1",
-	"description": "A simple, limited implementation of the touch command",
-	"author": "Ates Goral <ates@magnetiq.com>",
-	"dependencies": {
-		"commander": "0.6.1"
-	},
-	"bin": {
-		"touch": "./bin/touch"
-	}
+    "name": "touch-cli",
+    "preferGlobal": true,
+    "version": "0.0.1",
+    "description": "A simple, limited implementation of the touch command",
+    "author": "Ates Goral <ates@magnetiq.com>",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/atesgoral/touch-cli.git"
+    },
+    "dependencies": {
+        "commander": "0.6.1"
+    },
+    "bin": {
+        "touch": "./bin/touch"
+    }
 } 
